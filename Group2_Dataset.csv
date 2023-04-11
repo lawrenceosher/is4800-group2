@@ -1,0 +1,38 @@
+ParticipantId,Experimenter,Informed Consent,LightModeTime,LightModeAccuracy,DarkModeTime,DarkModeAccuracy,Comfortability_1,Comfortability_2,Comfortability_3,Comfortability_4,Comfortability_5,OverallDarkComfortScore,OverallLightComfortScore
+ParticipantID,,Do you consent to your responses being used later on in data analysis for the purposes of an in-class research assignment?,"First, click the theme of 9009 for light mode in the bottom right corner and then click words in the menu bar and click 100. Punctuation and numbers should be disabled in the menu bar. Participant will begin typing the 100 word prompt for light mode.
+ 
+
+ Enter the time it took the participant to complete the prompt in light mode.",Enter the accuracy (as a decimal) of the participant for the prompt in light mode.,"First, click the theme of 8008 for dark mode in the bottom right corner and then click words in the menu bar and click 100. Punctuation and numbers should be disabled in the menu bar. Participant will begin typing the 100 word prompt for light mode.
+ 
+
+ Enter the time it took the participant to complete the prompt in dark mode.",Enter the accuracy (as a decimal) of the participant for the prompt in dark mode.,Select how much you agree or disagree with the following sentences: - I am comfortable using dark mode for typing tasks,Select how much you agree or disagree with the following sentences: - I am comfortable using dark mode for reading tasks,Select how much you agree or disagree with the following sentences: - I am comfortable using light mode for typing tasks,Select how much you agree or disagree with the following sentences: - I am comfortable using light mode for reading tasks,Select how much you agree or disagree with the following sentences: - I prefer using dark mode over light mode,Added scores for 1 and 2 and added score for 5 once we shifted 5 to have scores below neither agree nor disagree to be negative and scores above to be positive,Added scores for 3 and 4 and subtracted score for 5 once we shifted 5 to have scores below neither agree nor disagree to be negative and scores above to be positive
+1,Team,Yes,76,0.96,75,0.97,Somewhat agree,Somewhat disagree,Agree,Agree,Somewhat disagree,7,13
+2,Team,Yes,62,0.97,60,0.96,Agree,Agree,Agree,Agree,Agree,14,10
+3,Team,Yes,77,0.96,72,0.97,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,16,12
+4,Team,Yes,76,0.97,98,0.92,Somewhat disagree,Somewhat agree,Agree,Neither agree nor disagree,Somewhat agree,9,9
+5,Team,Yes,72,0.96,77,0.96,Strongly agree,Strongly agree,Agree,Agree,Agree,16,10
+6,Team,Yes,86,0.96,88,0.96,Strongly agree,Somewhat agree,Strongly agree,Strongly agree,Neither agree nor disagree,12,14
+7,Team,Yes,56,0.97,54,0.96,Somewhat disagree,Somewhat disagree,Strongly agree,Strongly agree,Somewhat disagree,5,15
+8,Team,Yes,53,0.95,53,0.94,Strongly agree,Agree,Strongly agree,Strongly agree,Disagree,11,16
+9,Team,Yes,68,0.96,79,0.97,Neither agree nor disagree,Disagree,Somewhat disagree,Strongly agree,Somewhat agree,7,9
+10,Team,Yes,71,0.96,73,0.95,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,Strongly agree,17,7
+11,Team,Yes,57,0.94,74,0.9,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,15,13
+12,Team,Yes,43,0.97,46,0.94,Agree,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,11,10
+13,Team,Yes,46,0.93,41,0.94,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,17,9
+14,Team,Yes,66,0.88,67,0.9,Agree,Agree,Disagree,Agree,Somewhat agree,13,7
+15,Team,Yes,44,0.89,56,0.85,Somewhat agree,Agree,Agree,Agree,Neither agree nor disagree,11,12
+16,Oliver,Yes,79,0.94,72,0.95,Somewhat disagree,Neither agree nor disagree,Agree,Agree,Somewhat disagree,6,13
+17,Lawrence,Yes,67,0.97,71,0.93,Somewhat agree,Disagree,Agree,Agree,Disagree,5,14
+18,Oliver,Yes,78,0.92,80,0.93,Strongly agree,Agree,Neither agree nor disagree,Somewhat agree,Strongly agree,16,6
+19,Oliver,Yes,61,0.95,55,0.96,Agree,Agree,Agree,Agree,Somewhat agree,13,11
+20,Oliver,Yes,57,0.96,56,0.99,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Somewhat disagree,9,11
+21,Oliver,Yes,88,0.97,92,0.98,Strongly agree,Strongly agree,Somewhat disagree,Somewhat agree,Strongly agree,17,5
+22,Lawrence,Yes,97,0.93,107,0.93,Agree,Agree,Agree,Disagree,Agree,14,6
+23,Lawrence,Yes,45,0.93,48,0.96,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree,12,16
+24,Lawrence,Yes,72,0.85,70,0.86,Somewhat agree,Somewhat disagree,Agree,Strongly agree,Somewhat disagree,7,14
+25,Lawrence,Yes,67,0.89,61,0.96,Strongly agree,Somewhat agree,Somewhat disagree,Agree,Agree,14,7
+26,Kevin,Yes,97,0.97,102,0.96,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly disagree,5,17
+27,Kevin,Yes,95,0.77,90,0.7,Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,17,5
+28,Kevin,Yes,80,0.98,72,0.96,Strongly agree,Strongly agree,Somewhat disagree,Somewhat disagree,Strongly agree,17,3
+29,Kevin,Yes,65,0.96,69,0.95,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,14,14
+30,Kevin,Yes,72,0.94,67,0.97,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,17,11
